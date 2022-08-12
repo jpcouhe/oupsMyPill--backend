@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "json-server": "^0.17.0"
-  }
+  },
+  "name": "oupsmypill--backend",
+  "description": "",
+  "version": "1.0.0",
+  "main": "db.json",
+  "devDependencies": {},
+  "scripts": {
+    "start": "npx json-server --watch db.json --routes routes.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpcouhe/oupsMyPill--backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpcouhe/oupsMyPill--backend/issues"
+  },
+  "homepage": "https://github.com/jpcouhe/oupsMyPill--backend#readme"
 }
