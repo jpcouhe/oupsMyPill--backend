@@ -1,5 +1,569 @@
 {
-    "pilule": [
-      { "id": 1, "title": "MEDICAMENT", "author": "typicode" }
-    ]
-  }
+  "Pilules": [
+    {
+      "name": "ADEPAL",
+      "plan": "BIPHASIQUE 2ème Génération 21 comprimés : 7 blancs, 14 roses orangés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Levonorgestrel",
+      "generic": "Pacilia Gé",
+      "repayment": "65%"
+    },
+    {
+      "name": "AMARANCE GE",
+      "plan": "TRIPHASIQUE 2ème Génération 21 comprimés : 6 roses, 5 blancs, 10 jaunes",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Levonorgestrel",
+      "repayment": "65%"
+    },
+    {
+      "name": "ANTIGONE",
+      "plan": "MONOPHASIQUE 3ème Génération 28 comprimés en continu",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "PROGESTATIVE MICRODOSEE Désogestrel",
+      "repayment": "Prix libre"
+    },
+    {
+      "name": "BELANETTE",
+      "plan": "MONOPHASIQUE 4ème Génération 21 comprimés rose pâle",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE",
+      "repayment": "Prix libre"
+    },
+    {
+      "name": "BELARA",
+      "plan": "MONOPHASIQUE 4ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE",
+      "repayment": "Non"
+    },
+    {
+      "name": "CARLIN (20)",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Gestodène",
+      "repayment": "65%"
+    },
+    {
+      "name": "CARLIN (30)",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Gestodène",
+      "repayment": "65%"
+    },
+    {
+      "name": "CERAZETTE",
+      "plan": "MONOPHASIQUE 3ème Génération 28 comprimés en continu",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "PROGESTATIVE (Pas d’œstrogènes) MICRODOSEE Désogestrel (Progestérone 3ème génération)",
+      "generic": "Antigone Clareal Desopop",
+      "repayment": "Non"
+    },
+    {
+      "name": "CILEST",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Norgestimate",
+      "repayment": "Non"
+    },
+    {
+      "name": "CLAREAL GE",
+      "plan": "MONOPHASIQUE 3ème Génération 28 comprimés en continu",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "PROGESTATIVE (Pas d’œstrogènes) MICRODOSEE",
+      "repayment": "Prix libre"
+    },
+    {
+      "name": "CONVULINE",
+      "plan": "MONOPHASIQUE 4ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE",
+      "repayment": "Prix libre"
+    },
+    {
+      "name": "CYCLEANE (20)",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Désogestrel",
+      "repayment": "Non"
+    },
+    {
+      "name": "CYCLEANE (30)",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Désogestrel",
+      "repayment": "Non"
+    },
+    {
+      "name": "DAILY GE",
+      "plan": "TRIPHASIQUE 2ème Génération 21 comprimés : 6 roses, 5 blancs, 10 jaunes",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinyloestradiol + Levonorgestrel",
+      "repayment": "65%"
+    },
+    {
+      "name": "DESOBEL GE (20)",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Désogestrel",
+      "repayment": "65%"
+    },
+    {
+      "name": "DESOBEL GE (30)",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Désogestrel",
+      "repayment": "65%"
+    },
+    {
+      "name": "DESOGESTREL/ ETHINYLESTRADIOL",
+      "plan": "MONOPHASIQUE 3ème Génération",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Désogestrel",
+      "repayment": "Prix libre"
+    },
+    {
+      "name": "DESOPOP",
+      "plan": "MONOPHASIQUE 3ème Génération 28 comprimés blancs",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "PROGESTATIVE (Pas d’œstrogènes) MICRODOSEE",
+      "repayment": "Prix libre"
+    },
+    {
+      "name": "DIAMILLA",
+      "plan": "MONOPHASIQUE 3ème Génération 28 comprimés blancs",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "PROGESTATIVE (Pas d’œstrogènes) MICRODOSEE",
+      "repayment": "Prix libre"
+    },
+    {
+      "name": "DROSPIBEL (20)",
+      "plan": "MONOPHASIQUE 4ème Génération 21 comprimés rose",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE",
+      "repayment": "Prix libre"
+    },
+    {
+      "name": "DROSPIBEL (30)",
+      "plan": "MONOPHASIQUE 4ème Génération 21 comprimés jaunes",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE",
+      "repayment": "Prix libre"
+    },
+    {
+      "name": "EFEZIAL (20)",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Gestodène",
+      "repayment": "Non"
+    },
+    {
+      "name": "EFEZIAL (30)",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Gestodène",
+      "repayment": "Non"
+    },
+    {
+      "name": "EFFIPREV",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Norgestimate",
+      "repayment": "Non"
+    },
+    {
+      "name": "EVANECIA GE",
+      "plan": "TRIPHASIQUE 2ème Génération 21 comprimés : 6 roses, 5 blancs, 10 jaunes",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinyloestradiol + Levonorgestrel",
+      "repayment": "65%"
+    },
+    {
+      "name": "EVEPAR",
+      "plan": "MONOPHASIQUE 2ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + 17 OH progestérone (Cyprotérone)",
+      "repayment": "Non"
+    },
+    {
+      "name": "FELIXITA (20)",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Gestodène (3ème génération)",
+      "repayment": "Non"
+    },
+    {
+      "name": "FELIXITA (30)",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Gestodène (3ème génération)",
+      "repayment": "Non"
+    },
+    {
+      "name": "HARMONET",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Gestodène (3ème génération)",
+      "generic": "Efezial 20 Felixita 20 Carlin 20",
+      "repayment": "Non"
+    },
+    {
+      "name": "HOLGYEME",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + 17 OH progestérone (Cyprotérone)",
+      "repayment": "Non"
+    },
+    {
+      "name": "JASMINE",
+      "plan": "MONOPHASIQUE 4ème Génération",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol+Drospirénone (dérivé de Spironolactone)",
+      "generic": "Convuline Drospibel 20",
+      "repayment": "Non"
+    },
+    {
+      "name": "JASMINELLE",
+      "plan": "MONOPHASIQUE 4ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Drospirénone (dérivé Spironolactone)",
+      "generic": "Belanette Drospibel 30",
+      "repayment": "Non"
+    },
+    {
+      "name": "JASMINELLE CONTINU",
+      "plan": "MONOPHASIQUE CONTINU 4ème Génération 28 comprimés : 21 roses pâles, 7 blancs placebo",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Drospirénone (dérivé Spironolactone)",
+      "generic": "Rimendia",
+      "repayment": "Non"
+    },
+    {
+      "name": "LEELOO GE",
+      "plan": "MONOPHASIQUE 2ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Lévonorgestrel (2ème génération)",
+      "generic": "Optidril",
+      "repayment": "65%"
+    },
+    {
+      "name": "LOVAPHARM",
+      "plan": "MONOPHASIQUE 2ème Génération 21 comprimés bruns",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-POGESTATIVE MINIDOSEE",
+      "repayment": "65%"
+    },
+    {
+      "name": "LOVAVULO GE",
+      "plan": "MONOPHASIQUE 2ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Lévonorgestrel (2ème génération)",
+      "repayment": "65%"
+    },
+    {
+      "name": "LUDEAL GE",
+      "plan": "MONOPHASIQUE 2ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Lévonorgestrel (2ème génération)",
+      "repayment": "65%"
+    },
+    {
+      "name": "MELIANE",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Gestodène",
+      "generic": "Efezial 20 Felixita 20 Carlin 20",
+      "repayment": "Non"
+    },
+    {
+      "name": "MELODIA",
+      "plan": "MONOPHASIQUE CONTINUE 3ème Génération 28 comprimés : 24 jaunes, 4 blancs placebo",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Gestodène (3ème génération)",
+      "generic": "Optinesse Sylviane",
+      "repayment": "Non"
+    },
+    {
+      "name": "MERCILON",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Désogestrel (3ème génération)",
+      "generic": "Cycléane 20 Desobel Gé 20 (remboursé)",
+      "repayment": "Non"
+    },
+    {
+      "name": "MICROVAL",
+      "plan": "MONOPHASIQUE 2ème Génération 28 comprimés en continu",
+      "stop": "0",
+      "time-limit": "3H",
+      "molecule": "PROGESTATIVE (Pas d’œstrogènes) Lévonorgestrel (2ème génération)",
+      "repayment": "65%"
+    },
+    {
+      "name": "MINERVA",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + 17 OH progestérone (Cyprotérone)",
+      "repayment": "Non"
+    },
+    {
+      "name": "MINESSE",
+      "plan": "MONOPHASIQUE CONTINU 3ème Génération 28 comprimés : 24 jaunes, 4 blancs placebo",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Gestodène (3ème génération)",
+      "generic": "Optinesse Sylviane",
+      "repayment": "Non"
+    },
+    {
+      "name": "MINIDRIL",
+      "plan": "MONOPHASIQUE 2ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Lévonorgestrel (2ème génération)",
+      "generic": "Ludeal Gé, Zikiale, Ge Lovapharm",
+      "repayment": "65%"
+    },
+    {
+      "name": "MINULET",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Gestodène (3ème génération)",
+      "generic": "Efezial 30 Felixita 30 Carlin 30",
+      "repayment": "Non"
+    },
+    {
+      "name": "MONEVA",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Gestodène (3ème génération)",
+      "generic": "Efezial 30 Felixita 30 Carlin 30",
+      "repayment": "Non"
+    },
+    {
+      "name": "OPTIDRIL",
+      "plan": "MONOPHASIQUE 2ème Génération 28 comprimés : 21 jaunâtres, 7 rouges",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Lévonorgestrel",
+      "repayment": "65%"
+    },
+    {
+      "name": "OPTILOVA",
+      "plan": "MONOPHASIQUE 2ème Génération 28 comprimés : 21 blancs, 7 rouges placebo",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE",
+      "generic": "Leeloo",
+      "repayment": "65%"
+    },
+    {
+      "name": "OPTINESSE",
+      "plan": "MONOPHASIQUE 3ème Génération 28 comprimés : 24 jaunes pâles, 4 blancs placebo",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE",
+      "repayment": "Prix libre"
+    },
+    {
+      "name": "PACILIA GE",
+      "plan": "BIPHASIQUE 2ème Génération 21 comprimés : 7 blancs, 14 roses orangés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Levonorgestrel (2ème génération)",
+      "repayment": "Non"
+    },
+    {
+      "name": "PERLEANE",
+      "plan": "TRIPHASIQUE 3ème Génération 21 comprimés : 6 beiges, 5 marrons, 10 blancs",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Gestodène (3ème génération)",
+      "repayment": "Non"
+    },
+    {
+      "name": "PHAEVA",
+      "plan": "TRIPHASIQUE 3ème Génération 21 comprimés : 6 beiges, 5 marrons, 10 blancs",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Gestodène (3ème génération)",
+      "generic": "Perléane",
+      "repayment": "Non"
+    },
+    {
+      "name": "QLAIRA*",
+      "plan": "QUADRIPHASIQUE CONTINU 4ème Génération 28 comprimés : 2 oranges, 5 roses, 17 jaunes, 2 marrons, 2 blancs placebo",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Œstrogène naturelle + Diénogest",
+      "repayment": "Non"
+    },
+    {
+      "name": "RIMENDIA",
+      "plan": "MONOPHASIQUE 4ème Génération 28 comprimés : 24 roses pâles, 4 blancs placebo",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE",
+      "repayment": "Prix libre"
+    },
+    {
+      "name": "SEASONIQUE",
+      "plan": "BIPHASIQUE 2ème Génération 91 comprimés : 84 roses et 7 blancs",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Lévonorgestrel (84 Cp roses) et Ethinylestradiol (7 Cp blancs)",
+      "repayment": "Non"
+    },
+    {
+      "name": "STEDIRIL",
+      "plan": "MONOPHASIQUE 2ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE NORMODOSEE Ethinylestradiol + Norgestrel",
+      "repayment": "65%"
+    },
+    {
+      "name": "SYLVIANE",
+      "plan": "OESTRO-PROGESTATIVE",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE NORMODOSEE Ethinylestradiol + Norgestrel",
+      "generic": "Mélodia Minesse",
+      "repayment": "Prix libre"
+    },
+    {
+      "name": "SLINDA",
+      "plan": "MONOPHASIQUE 28 comprimés : 24 comprimés actifs (blanc) et 4 comprimés placébo (vert). 4",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "Progéstative (Drospirénone4 mg)",
+      "repayment": "Non"
+    },
+    {
+      "name": "TRIAFEMI",
+      "plan": "TRIPHASIQUE 3ème Génération 21 comprimés : 7 blancs, 7 bleus ciel, 7 bleus foncés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Norgestimate (3ème génération)",
+      "repayment": "Non"
+    },
+    {
+      "name": "TRICILEST",
+      "plan": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Norgestimate (3ème génération)",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Norgestimate (3ème génération)",
+      "repayment": "Non"
+    },
+    {
+      "name": "TRIELLA",
+      "plan": "TRIPHASIQUE 1ère Génération 21 comprimés : 7 blancs, 7 oranges pâles, 7 oranges",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Noréthistérone (1ère génération)",
+      "repayment": "65%"
+    },
+    {
+      "name": "TRIMINULET",
+      "plan": "TRIPHASIQUE 3ème Génération 21 comprimés : 6 beiges, 5 marrons, 10 blancs",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Gestodène (3ème génération)",
+      "generic": "Perléane",
+      "repayment": "Non"
+    },
+    {
+      "name": "TRINORDIOL",
+      "plan": "TRIPHASIQUE 2ème Génération 21 comprimés : 6 roses, 5 blancs, 10 jaunes",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinyloestradiol + Levonorgestrel (3ème génération)",
+      "generic": "Daily Gé Amarance Gé Evanecia Gé",
+      "repayment": "65%"
+    },
+    {
+      "name": "VARNOLINE",
+      "plan": "MONOPHASIQUE 3ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Désogestrel (3ème génération)",
+      "generic": "Cycléane 30 Desobel Gé 30 (remboursé)",
+      "repayment": "Non"
+    },
+    {
+      "name": "VARNOLINE CONTINU",
+      "plan": "MONOPHASIQUE CONTINU 3ème Génération 28 comprimés : 21 blancs, 7 verts placebo",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Désogestrel (3ème génération)",
+      "repayment": "65%"
+    },
+    {
+      "name": "YAZ",
+      "plan": "MONOPHASIQUE CONTINU 4ème Génération 28 comprimés : 24 roses, 4 blancs placebo",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Drospirénone (dérivé de Spironolactone)",
+      "generic": "Rimendia",
+      "repayment": "Non"
+    },
+    {
+      "name": "ZIKIALE GE",
+      "plan": "MONOPHASIQUE 2ème Génération 21 comprimés",
+      "stop": "7",
+      "time-limit": "12H",
+      "molecule": "OESTRO-PROGESTATIVE MINIDOSEE Ethinylestradiol + Lévonorgestrel (2ème génération)",
+      "repayment": "65%"
+    },
+    {
+      "name": "ZOELY",
+      "plan": "MONOPHASIQUE CONTINU 4ème Génération 28 comprimés : 24 blancs, 4 jaunes placebo",
+      "stop": "0",
+      "time-limit": "12H",
+      "molecule": "OESTROGENE NATURELESTRADIOL 1.5 + PROGESTATIF 2.05",
+      "repayment": "Prix libre"
+    }
+  ]
+}
