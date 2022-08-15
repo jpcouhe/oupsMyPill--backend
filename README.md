@@ -3,12 +3,6 @@
 
 # OupsMyPill : Gestion d'oubli de pilule contraceptive // BACKEND
 
-<p align="center">
-<img src="src/assets/images/construction.png" alt="drawing" width='100%'/>
-</p>
-
-
-
 ## 🔨 Technologies 
   - package json-server
   
