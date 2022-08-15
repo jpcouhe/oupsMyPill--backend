@@ -1,4 +1,5 @@
 {
-    "/api/*": "/$1",
-    "/meds":"/pilule"
-  }
+  "/api/*": "/$1",
+  "/meds": "/pilule",
+  "/Pilules/:id": "/Pilules/:id"
+}
